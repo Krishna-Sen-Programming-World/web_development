@@ -1,0 +1,233 @@
+*{
+    margin: auto;
+    text-align: center;
+}
+body{
+    font-family: 'Happy Monkey', cursive;
+    /* background: #a2d2ff; */
+    color: #ffffff;
+    overflow-x: hidden;
+    text-shadow: 0px 0px 1px black;
+}
+.bd{
+    height: 2910px;
+    background: linear-gradient(#a2d2ff,rgb(254 0 255));
+}
+.he1{
+    display: block;
+    height: 60px;
+    overflow: hidden;
+    position: relative;
+    padding-top: 20px;
+}
+
+.he2{
+    display: block;
+    height: 300px;
+    overflow: hidden;
+}
+.he21{
+    border: 6px solid rgb(255 56 153 / 98%);
+    display: block;
+    height: 155px;
+    width: 155px;
+    border-radius: 150px;
+    margin: auto;
+    overflow: hidden;
+}
+.he22{
+    background-color: rgb(254, 0, 255);
+    border-radius: 48px;
+    margin-top: 30px;
+    padding-top: 9px;
+    display: block;
+    overflow: hidden;
+    width: 150px;
+    height: 29px;
+
+}
+.he23{
+    margin-top: 11px;
+    padding-top: 7px;
+    display: block;
+    overflow: hidden;
+    width: 120px;
+    height: 25px;
+    border-radius: 48px;
+    background-color: rgb(254, 0, 255);
+}
+
+.he3{
+    margin-top: 50px;
+    display: block;
+    height: 360px;
+}
+.he31{
+    display: block;
+    padding-top: 15px;
+    height: 40px;
+    overflow: hidden;
+    margin-bottom: 0px;
+}
+.he32{
+    display: block;
+    padding-top: 15px;
+    margin-top: -16px;
+    height: 40px;
+    overflow: hidden;
+}
+.he33{
+    display: block;
+    margin: auto;
+    height: 360px;
+    overflow: hidden;
+    
+}
+.he331{
+    display: block;
+    border: 7px solid white;
+    height: 315px;
+    width: 513px;
+    border-radius: 20px;
+    background-image: url(Web-Cover-88.jpg);
+    background-size: 513px 315px;
+    overflow: hidden;
+}
+.he331:hover ,.he331:active{
+    background-image: url(giphyhappy.gif);
+}
+.he4{
+    margin-top: 94px;
+    display: block;
+    height: 410px;
+}
+.he41{
+    display: block;
+    padding-top: 15px;
+    height: 40px;
+    margin-top: 163px;
+    overflow: hidden;
+    margin-bottom: 0px;
+}
+.he43 {
+    display: block;
+    margin: auto;
+    height: 360px;
+    overflow: hidden;
+}
+.he441{
+    display: block;
+    height: 315px;
+    border-radius: 20px;
+    width: 513px;
+    border: 7px solid white;
+    background-image: url(Web-Cover-88.jpg);
+    background-size: 513px 315px;
+    overflow: hidden;
+}
+.he441:hover ,.he441:active{
+    background-image: url(giphysweat.gif);
+}
+
+
+
+
+
+.he5{
+    margin-top: 50px;
+    display: block;
+    height: 470px;
+}
+.he51{
+    display: block;
+    padding-top: 15px;
+    height: 40px;
+    overflow: hidden;
+    margin-bottom: 0px;
+}
+.he53{
+    display: block;
+    margin: auto;
+    height: 360px;
+    overflow: hidden;
+    
+}
+.he551{
+    display: block;
+    height: 315px;
+    border: 7px solid white;
+    width: 513px;
+    border-radius: 20px;
+    background-image: url(Web-Cover-88.jpg);
+    background-size: 513px 315px;
+    overflow: hidden;
+}
+.he551:hover ,.he551:active{
+    background-image: url(giphychocolate.gif);
+}
+
+.he6{
+    margin-top: 50px;
+    display: block;
+    height: 470px;
+}
+.he61{
+    display: block;
+    padding-top: 15px;
+    height: 40px;
+    overflow: hidden;
+    margin-bottom: 0px;
+}
+.he63{
+    display: block;
+    margin: auto;
+    height: 360px;
+    overflow: hidden;
+    
+}
+.he661{
+    display: block;
+    height: 315px;
+    border: 7px solid white;
+    width: 513px;
+    border-radius: 20px;
+    background-image: url(Web-Cover-88.jpg);
+    background-size: 513px 315px;
+    overflow: hidden;
+}
+.he661:hover ,.he661:active{
+    background-image: url(bored.gif);
+}
+
+.he7{
+    margin-top: 50px;
+    display: block;
+    height: 470px;
+}
+.he71{
+    display: block;
+    padding-top: 15px;
+    height: 40px;
+    overflow: hidden;
+    margin-bottom: 0px;
+}
+.he73{
+    display: block;
+    margin: auto;
+    height: 360px;
+    overflow: hidden;
+    
+}
+.he771{
+    display: block;
+    border: 7px solid white;
+    border-radius: 20px;
+    height: 315px;
+    width: 513px;
+    background-image: url(Web-Cover-88.jpg);
+    background-size: 513px 315px;
+    overflow: hidden;
+}
+.he771:hover ,.he771:active{
+    background-image: url(giphygift.gif);
+}
