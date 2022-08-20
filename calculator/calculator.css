@@ -1,0 +1,100 @@
+*{
+    font-family: 'Nova Slim', 'cursive';
+}
+body{
+    
+    display: block;
+    margin: auto;
+    width: 70%;
+    background-color: bisque;
+    /* background: linear-gradient(#a2d2ff,rgb(254 0 255)); */
+}
+.H1{
+    background-color: aqua;
+    text-align: center;
+}
+.hid{
+    display: none;
+}
+.outp{
+    font-weight: 800;
+    font-size: 15px;
+    font-weight: 800px;
+    display: block;
+    height: 50px;
+    width: 480px;
+    margin: auto;
+    text-overflow: ellipsis;
+    text-align:right;
+    overflow-wrap: break-word;
+    white-space: initial;
+    border:3px solid black;
+    border-radius: 19px;
+    padding-right: 10px;
+}
+.out{
+    
+    display: block;
+    background-color: rgb(248, 248, 248);
+    height: 30px;
+    width: 303px;
+    margin: auto;
+    border:3px solid black;
+    border-radius: 10px;
+    overflow: hidden;
+    padding: 0px;
+    padding-right: 5px;
+}
+.out1{display: block;
+    float: left;
+    height: 39px;
+    width: 60px;
+    margin: 0px;
+    margin-top: 0px;
+    padding-top: 5px;
+    padding-left:7px ;
+    overflow: hidden;
+    color: rgb(39, 39, 246);
+    border-right: 3px solid rgb(255, 0, 242);
+    background-color: rgb(255, 255, 255);
+    
+}
+.out2{    
+    display: block;
+    text-align: right;
+    float: right;
+    height: 26px;
+    margin-top: 0px;
+    padding-right: 8px;
+    margin-right: -6px;
+    padding-top: 6px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    width: 231px;
+    background-color: rgb(255, 255, 255);
+}
+.butclick{
+    display: block;
+    border: 2px solid black;
+    height: 40px;
+    width: 80px;
+    border-radius: 9px;
+    margin: 1px;
+    box-shadow: inset -1px -1px 4px 0px #d704f8;
+    font-size: large;
+}
+.butclick:hover{
+    box-shadow: inset 1px 1px 1px 0px #ff0505;
+}
+.keyboard{
+    margin: auto;
+width: 556px;
+display: block;
+height: 200px;
+background-color: aquamarine;
+border-radius: 22px;
+padding: 7px;
+}
+.sp{
+    width: 8px;
+}
