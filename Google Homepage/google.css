@@ -1,0 +1,105 @@
+.block{
+    display: block;
+    width: 400px;
+    margin: auto;
+    margin-top: 110px;
+    border-collapse: collapse;
+}
+
+div ul li{
+    list-style: none;
+    text-align: center;
+    font-size: 90px;
+    float: left;
+    border-collapse: collapse;
+    font-family: 'Poppins', sans-serif;
+
+}
+.G {color: rgb(17, 0, 255);}
+.O {color: rgb(255, 17, 0);}
+.OO{color: rgb(248, 252, 0);}
+.GG{color: rgb(14, 34, 246);}
+.L {color: rgb(5, 236, 44);}
+.E {color: rgb(248, 7, 7);}
+.distance{    display: block;
+    padding-top: 160px;
+    height: 60px;
+    width: 603px;
+    margin: auto;
+}
+.search{
+    padding:5px;
+    padding-bottom: 5px;
+    padding-left:15px;
+    display: block;
+    border-radius: 25px;
+    width: 500px;
+    height: 20px;
+    margin: auto;
+    border: 2px solid black;
+}
+.search:hover, .search:active{    
+    border: 2px solid black;
+    box-shadow: 0px 0px 20px 0px rgba(77, 70, 70, 0.53);
+}
+.con1:hover, .con1:active{
+    box-shadow: 0px 0px 5px 2px rgb(77 70 70 / 53%);
+}
+.extra {
+    font-family: 'Courier New', Courier, monospace;
+    display: block;
+    border-collapse: collapse;
+    height: 10px;
+    width:500px;
+    margin: auto;
+    background-color: aqua;
+}
+ol{
+    list-style-type: none;;
+}
+.con{
+    display: block;
+    width: 310px;
+    height: 30px;
+    margin: auto;
+}
+.con1 {
+    border-collapse: collapse;
+    border: 0px;
+    display: block;
+    float: left;
+    width: 150;
+    height: 50px;
+    margin: 2px;
+    padding-left: 1px;
+    text-align:center;
+}
+.extra1 {
+    border-collapse: collapse;
+    border: 0px;
+    height: 50px;
+    width: 150px;
+    text-align:center;
+    font-size: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.extra1:hover{
+    cursor: pointer;
+}
+.privacy{
+    padding-top: 35px;
+    display: block;
+    text-align: center;
+    width: auto;
+    height: auto;
+    margin: auto;
+}
+.pos{display: flex;
+    float: right;
+    background: transparent;
+    border: 0px;
+    color: blue;
+    margin-right: 48px;
+    margin-top: -25px;
+    display: flex;
+}
