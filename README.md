@@ -1,4 +1,5 @@
 # web_development
+Color GEnerate hosting link : (" https://glowing-hamster-d52f01.netlify.app ")
 
 Calculator hosting link : (" https://idyllic-bavarois-95d7b9.netlify.app ")
 
