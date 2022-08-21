@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <head>
-    <!-- <meta name="viewport" content="width=device-width initial-scale=1"> -->
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -9,15 +8,17 @@
     <script src='calculator.js'></script>
 </head>
 <html>
-<body>
+<body id="doneeok">
 <h1 class="H1">Calculator</h1>
     <input type="text" id="in" placeholder="Calculation is fun" class="outp"><br>
+    
+<script>funent()</script>
 <div class="out">
     <div class="out1">Output :</div>
     <div class="out2" id="demo"></div>
 </div>
 <span id="demoo" class="hid"></span><br>
-<table class="keyboard">
+<table class="keyboard" >
 <tr>
     <td><button class="butclick " onclick="fn('7')">7</button></td>
     <td><button class="butclick " onclick="fn('8')">8</button></td>
@@ -33,7 +34,7 @@
     <td><button class="butclick " onclick="fn('5')">5</button></td>
     <td><button class="butclick " onclick="fn('6')">6</button></td>
     <td class="sp"></td>
-    <td><button class="butclick " onclick="fns('&#xd7;')">&#xd7;</button></td>
+    <td><button class="butclick " onclick="fns('*')">*</button></td>
     <td><button class="butclick " onclick="fns('/')">/</button></td>
     <td class="sp"></td>
     <td><button class="butclick " onclick="fcp()" >Copy</button></td>
@@ -55,10 +56,10 @@
     <td><button class="butclick " onclick="fn('0')">0</button></td>
     <td><button class="butclick " onclick="fn('00')">00</button></td>
     <td class="sp"></td>
-    <td><button class="butclick " onclick="fn1()">=</button></td>
+    <td><button class="butclick " id="doneok" onclick="fn1()">=</button></td>
     <td><button class="butclick " onclick="fner()" ><i class="material-icons">backspace</i></button></td>
     <td class="sp"></td>
-    <td><button class="butclick " onclick="ce()" >CE</button></td>
+    <td><button class="butclick " onclick="clr()">CE</button></td>
 </tr>
 </table>
 </body>
