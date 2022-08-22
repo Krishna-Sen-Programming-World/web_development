@@ -5,10 +5,12 @@ Google hosting link : (" https://comfy-valkyrie-60b402.netlify.app ")
 
 Calculator hosting link : (" https://idyllic-bavarois-95d7b9.netlify.app ")
 
-Person Entering Counter : (" https://elaborate-macaron-b58582.netlify.app ")
+Person Entering Counter hosting link : (" https://elaborate-macaron-b58582.netlify.app ")
 
-Tour Guide : (" https://jade-cucurucho-0e3fa1.netlify.app ")
+Tour Guide hosting link : (" https://jade-cucurucho-0e3fa1.netlify.app ")
 
-Space Design : (" https://imaginative-llama-1b2ac1.netlify.app ")
+Space Design hosting link : (" https://imaginative-llama-1b2ac1.netlify.app ")
 
 Birthday hosting link : (" https://spiffy-naiad-7ac333.netlify.app ")
+
+ALL  hosting links :( https://app.netlify.com/teams/krishna-sen-programming-world/overview ")
