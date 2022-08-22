@@ -1,7 +1,7 @@
 # web_development
 Color Generate hosting link : (" https://glowing-hamster-d52f01.netlify.app ")
 
-Google hosting link : ("https://syfmgkpnhzizz5kpcq5yhg.on.drv.tw/www.GOOGLE.html/google.html ")
+Google hosting link : (" https://comfy-valkyrie-60b402.netlify.app ")
 
 Calculator hosting link : (" https://idyllic-bavarois-95d7b9.netlify.app ")
 
