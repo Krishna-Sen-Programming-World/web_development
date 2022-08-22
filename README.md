@@ -13,4 +13,4 @@ Space Design hosting link : (" https://imaginative-llama-1b2ac1.netlify.app ")
 
 Birthday hosting link : (" https://spiffy-naiad-7ac333.netlify.app ")
 
-ALL  hosting links :( https://app.netlify.com/teams/krishna-sen-programming-world/overview ")
+ALL  hosting links : ("I acn ony access it :o https://app.netlify.com/teams/krishna-sen-programming-world/overview ")
