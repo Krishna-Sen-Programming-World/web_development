@@ -1,0 +1,122 @@
+*{
+    text-align: center;
+    font-family: 'Concert One', cursive;
+    font-family: 'Source Code Pro', monospace;
+    color: aliceblue;
+    text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;
+}
+.bod1{
+    display: block;
+    height: 1099px;
+    width: 100%;
+    border-radius:30px;
+    overflow-y: hidden;
+    margin: 0px;
+    padding-top: 0px;
+    background: linear-gradient(rgb(248, 25, 174),rgb(117, 130, 227));
+}
+.bod2,.bod3,.bod4{
+    display:block;
+    width: 100%;
+    height: 34.33%;
+    overflow: hidden;
+}
+.bod2{
+    height: 331px;
+    background-image: url(label.webp);
+    background-size: 1209px 387px;
+    background-repeat: no-repeat;
+}
+.hed1{
+    margin-top: 137px;
+}
+.hed2{
+    display: block;
+    width: 52%;
+    margin: auto;
+    background-color: rgb(178 181 174 / 52%);
+}
+.bod3{
+    height: 37%;
+    overflow: hidden;
+}
+.bod3h1{
+    display: block;
+    margin-top: 12.5px;
+
+}
+.bod3h2{
+    display: flex;
+    justify-content: space-around;
+}
+.bodh3a1{
+    overflow: hidden;
+    display: block;
+    width: 34%;
+    height: 24em;
+    border-collapse: collapse;
+}
+.bod4{
+    height: 350px;
+}
+.imag1, .imag2, .imag3{
+    margin-top: 8px;
+    display: block;
+    width: 165px;
+    margin: auto;
+    height: 160px;
+    border-radius: 100px;
+}
+.imag1{    
+    background-image: url(Tajmahal.jpg);
+    background-size: 160px;
+}
+.imag2{
+    background-image: url(Colosseum.jpg);
+    background-size: 260px;
+}
+.imag3{
+    background-image: url(MachuPicchu.webp);
+    background-size: 218px;
+}
+.det1{
+    
+    display: block;
+    width: 290px;
+    margin: auto;
+    overflow: hidden;
+    height:142px;
+}
+.prof1{
+    display: block;
+    margin: auto;
+    width: 550px;
+    height:260px;
+    margin-top: 42px;
+}
+.imgli{
+    display: flex;    
+    border-bottom: 6px solid rgb(120, 252, 248);
+    justify-content: space-around;    
+    background-color: rgba(120, 252, 248,0.3);
+}
+.imgpr{
+    display: block;
+    width: 46%;
+    height: 252px;
+    margin-right: 23px;
+    margin-top: 4px;
+}
+.imgpr1{    
+    display: block;
+    margin: auto;
+    width: 230px;
+    height: 225px;
+    background-image: url(Profile.jpg);
+    background-size: 186px;
+    background-repeat: no-repeat;
+
+}
+.imgpr2{
+    text-align: center;
+}
