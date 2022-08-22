@@ -1,0 +1,81 @@
+body{
+    display: block;
+    height: 510px;
+    background-image: url("spa.jpg");
+    background-size: cover;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+*{
+    text-align: center;    
+}
+.cent{
+    display:block;
+    overflow: hidden;
+    height: 450px;
+}
+.tac{
+    padding-top: 45px;
+    display: block;
+    margin-left: -1cm;
+    margin-right: -1cm;
+    background-color: rgba(193, 133, 234, 0.352);
+    color: white;
+    text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;
+    height:85px;
+    overflow: hidden;
+
+}
+.he1{
+    display:block;
+    height: 100px;
+    padding-top: 40px;
+    overflow: hidden;
+}
+.he2{
+    font-family: 'Source Code Pro', monospace;
+    font-weight: bold;
+    text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;
+    color: rgb(248, 245, 247);
+
+    font-size: 30px;
+    display: block;
+    padding-top: 20px;
+    height: 180px;
+}
+.he3{
+    overflow: hidden;
+    text-align: center;
+    margin: auto;
+    
+    border: 0px;
+    
+    display: block;
+    height: 150px;
+    overflow: hidden;    
+}
+.he4{
+    margin: auto;
+    padding:5px;
+    padding-top: 11px;
+    width: 100px;
+    height: 40px;
+    font-size: 25px;
+    background-color: rgb(252, 252, 252);
+    color: rgb(152, 152, 253);
+    font-family: 'Orbitron', sans-serif;
+    font-weight: bold;
+
+}
+.und{
+    border-bottom: 4px solid white;
+}
+.he4:hover{
+    color: rgb(252, 252, 252);
+    background-color: rgb(152, 152, 253);
+    cursor: pointer;
+}
+.lig{
+    margin: auto;
+    
+}
