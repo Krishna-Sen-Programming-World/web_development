@@ -1,0 +1,80 @@
+*{
+    text-align: center;
+}
+.bdy{
+    font-family: 'Happy Monkey', cursive;
+    margin: auto;
+    width: 800px;
+    height: 593px;
+    display: block;
+    background-image: url(peop.jpg);
+    background-size: 800px 593px;
+    
+}
+.ha{
+    display: inline-block;
+    margin-top: 25px;
+}
+.ff{
+    display: block;
+    margin-top: 10px;
+}
+.but{
+    display: block;
+    width: 375px;
+    height: 236px;
+    margin: auto;
+}
+.butstyle{
+    font-family: 'Secular One', sans-serif;
+    display: block;
+    font-size: xx-large;
+    width: 375px;
+    height: 65px;
+    margin: auto;
+    text-align: center;
+    border-collapse: collapse;
+    border: 0px;
+    margin-bottom: 20px;
+    color: azure;
+    border-radius: 50px;
+
+}
+.hisfon{
+    display: block;
+    width: 800px;
+    text-align: center;
+    height: max-content;
+    overflow-wrap: anywhere;
+    background-color: rgba(229, 226, 173,.9);
+
+/*     
+    display: block;
+    width: max-content;
+    background-color: rgba(229, 226, 173,.9);
+    margin: auto;
+    text-shadow: 0px 0px 1px ; */
+    
+}
+.incree{
+    background-color: rgb(30, 207, 30);
+}
+.decree{
+    background-color: rgb(230, 62, 62);
+}
+.savee{
+    background-color: rgb(218, 235, 69);
+}
+.incree:hover{
+    background-color: rgb(1, 255, 1);
+}
+.decree:hover{
+    background-color: rgb(255, 1, 1);
+}
+.savee:hover{
+    background-color: rgb(230, 255, 2);
+}
+.ov{
+    width: 880px;
+    overflow-wrap: normal;
+}
