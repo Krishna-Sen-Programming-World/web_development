@@ -1,4 +1,6 @@
 # web_development
+Gpotift Wegbpage : (" https://courageous-empanada-81d04f.netlify.app ")
+
 Color Generate hosting link : (" https://glowing-hamster-d52f01.netlify.app ")
 
 Google hosting link : (" https://comfy-valkyrie-60b402.netlify.app ")
