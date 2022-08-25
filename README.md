@@ -1,5 +1,5 @@
 # web_development
-Gpotift Wegbpage : (" https://courageous-empanada-81d04f.netlify.app ")
+Spotift Wegbpage : (" https://courageous-empanada-81d04f.netlify.app ")
 
 Color Generate hosting link : (" https://glowing-hamster-d52f01.netlify.app ")
 
