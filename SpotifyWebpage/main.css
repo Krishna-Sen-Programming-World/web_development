@@ -1,0 +1,128 @@
+*{
+    font-family: 'Lato', sans-serif;
+font-family: 'Nova Slim', cursive;
+
+}
+body{
+    margin: 0%;
+    padding: 0%;
+    background-image: url(back.jpg);
+    background-size: cover;
+    display: block;
+}
+.div1{
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    align-items: center;
+    height: 63%;
+    min-width: 568px;
+}
+a{
+    text-decoration: none; 
+}
+.img1{
+    padding: 4% 0% 0% 0%;
+}
+
+li{   
+    color: white;
+    list-style: none;
+    padding: 0.3% 2%;
+}
+.head1{
+    margin-left: -2%;
+    padding-left: 0x;
+}
+.cont{
+    padding-top: 6px;
+}
+.boxx{
+    padding: 0%;
+    display: block;
+    height: 315px;
+    margin: 4rem 2rem 3rem 5rem ;
+    border-radius: 2rem;
+}
+.myyduration{    
+    background-color: black;
+    display: block;
+    float: bottom;
+    height: 65px;
+    padding-top: 16px;
+    /* margin-bottom: 1%; */
+    min-width: 568px;
+    width: 100%;
+}
+.controlls{
+    display: flex;
+    align-items: center;
+    margin-top: 2px;
+    margin: auto;
+    min-width: 568px;
+}
+i{
+    display: block;
+    width: 40px;
+    height: 40px;
+    margin: auto;
+    font-size: 2rem;
+    color: aliceblue;
+}
+a{
+    color: white;
+    font-style: none;
+}
+.playbackk{
+    width: 50.5px;
+    margin: 0px;
+    padding: 0px;
+    margin: 0px 0px 0px -22px;
+    overflow: hidden;
+    border-radius: 50px;
+}
+.skeletal{
+    display: flex;
+    align-items: center;
+    min-width: 476px;
+    max-width: 476px;
+    height: 44px;
+    background-color: #fcfaf8;
+    margin: 7px;
+    border-radius: 50px;
+}
+.titles{
+    margin-left: 40px;
+    display: flex;
+    height: 44px;
+    width: 125px;
+    text-align: center;
+    align-items: center;
+    color: black;
+}
+.audioplayerlogo{
+    display: none;
+    width: 50.5px;
+    height: 20px;
+    position: absolute;
+    float: right;
+    margin-top: -2px;
+    margin-left: 415px;
+    
+}
+#head1, #head2, #head3, #head4{
+    color: black;
+    display: block;
+    width: 50.5px;
+    height: 20px;
+    float: right;
+    margin-top: -16px;
+    margin-left: 236px;
+}
+.audiowithcontrol{
+    width: 480px;
+}
+li:hover, .fa-regular:hover{
+    cursor:pointer;
+}
+.skeletal:hover{
+box-shadow: inset -5px -4px 4px 0px rgb(255, 0, 255);}
