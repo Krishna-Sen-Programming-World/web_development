@@ -1,0 +1,84 @@
+body{
+    min-width: 53rem;
+    background-color: rgb(0, 251, 42);
+    color: blue;
+}
+.heading{
+    display: flex;
+    align-items: center;
+    padding: 0rem 0rem 0rem 1rem;
+    max-width: 100%;
+    margin: 1rem 0rem 0rem 0rem;
+    height: 3rem;
+    background-color: black;
+    color: white;
+}
+.gameBox{
+    display: flex;
+    padding: 1rem;
+    background-color: blanchedalmond;
+}
+.gridBox{
+    display: grid ;
+    column-gap: 5px;
+    row-gap: 5px;
+    max-width: fit-content;
+    background-color: rgb(0, 0, 0);
+    padding: 0rem;
+    grid-template-rows:    9rem 9rem 9rem ;
+    grid-template-columns: 9rem 9rem 9rem;
+}
+button.reset {border: 0rem;}
+.grids{
+    display: flex;
+    background-color: aquamarine;
+    background-color: rgb(205, 255, 237);
+    font-size: 5rem;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+.grids:hover{
+    background-color: rgb(222, 193, 248);
+}
+.reset{
+    background-image: url(Reset.png);
+    background-size: cover;
+    height: 4rem;
+    width: 4rem;
+    cursor: pointer;
+
+}
+.gif{
+    background-size: cover;
+    display: block;
+    height: 0rem;
+    width:  9rem;
+    transition: height 3s linear;
+}
+.margingiven{
+    margin-left: 1rem;
+}
+@media screen and (max-width:500px){
+    .gridBox{grid-template-rows:5rem 5rem 5rem ;
+        grid-template-columns: 5rem 5rem 5rem ;}
+    .grids{align-items: end;}}
+@media screen and (max-width:599px){html{ 
+    font-size: 45.7%;}
+body{min-width: 48rem;;}
+.gameBox {height: 22rem;
+    min-height: 22rem;}
+.gridBox {
+    column-gap: 7px;
+    row-gap: 7px;
+    max-height: 19.9rem;
+    grid-template-rows: 6rem 6rem 6rem;
+    grid-template-columns: 6rem 6rem 6rem;
+}}
+@media screen and (min-width: 600px){html{font-size: 81%;}}
+@media screen and (min-width: 768px){html{font-size: 89%;}
+body{min-width: 48rem;}}
+@media screen and (min-width: 992px){html{
+    font-size: 92.3455%;}}
+@media screen and (min-width: 1201px){html{
+    font-size: 100%;}}
