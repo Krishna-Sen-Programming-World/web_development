@@ -33,23 +33,23 @@ body{
     transform-origin: bottom;
     border-radius: 5rem;
 }
-#hr{
+#min{
     height: 14.1vw;
     background-color: rgb(0, 192, 163);
     margin-top: 5.9%;
-    z-index: 1;
-}
-#min{
-    height: 9.99vw;
-    background-color: rgb(12, 52, 255);
-    margin-top: 10%;
     z-index: 2;
 }
 #sec{
+    height: 9.99vw;
+    background-color: rgb(12, 52, 255);
+    margin-top: 10%;
+    z-index: 3;
+}
+#hr{
     height: 6.728vw;
     background-color: rgb(255, 12, 12);
     margin-top: 13.2%;
-    z-index: 3;
+    z-index: 1;
 }
 #ttime{
     display: flex;
