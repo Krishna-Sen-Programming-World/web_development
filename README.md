@@ -3,6 +3,8 @@ Spotify Wegbpage : (" https://courageous-empanada-81d04f.netlify.app ")
 
 Color Generate hosting link : (" https://glowing-hamster-d52f01.netlify.app ")
 
+Clock : (" https://keen-caramel-4233af.netlify.app ")
+
 Google hosting link : (" https://comfy-valkyrie-60b402.netlify.app ")
 
 Tik-Tac-Toe game : (" https://spiffy-taffy-4bf9e4.netlify.app ")
