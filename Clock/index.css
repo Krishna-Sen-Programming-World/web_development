@@ -1,0 +1,62 @@
+body{
+    height: 40vw;
+}
+#box{
+    background-image: url("clock.png");
+    background-size: cover;
+    width: 40vw;
+    height: 40vw;
+    margin: auto;
+    border: 1px solid transparent;
+    display: block;
+}
+#circle{
+    background-image: url('cc.png');
+    background-size: cover;
+    height: 3vw;
+    position: absolute;
+    margin: auto;
+    display: flex;
+    margin-top: 18.4%;
+    margin-left: 18.4%;
+    /* opacity: .5; */
+    z-index: 4;
+    width: 3vw;
+}
+
+#hr, #min, #sec{
+    position: absolute;
+    width: 0.5vw;
+    overflow: hidden;
+    display: flex;
+    left: 49.799vw;
+    transform-origin: bottom;
+    border-radius: 5rem;
+}
+#hr{
+    height: 14.1vw;
+    background-color: rgb(0, 192, 163);
+    margin-top: 5.9%;
+    z-index: 1;
+}
+#min{
+    height: 9.99vw;
+    background-color: rgb(12, 52, 255);
+    margin-top: 10%;
+    z-index: 2;
+}
+#sec{
+    height: 6.728vw;
+    background-color: rgb(255, 12, 12);
+    margin-top: 13.2%;
+    z-index: 3;
+}
+#ttime{
+    display: flex;
+    width: 16.2vw;
+    height: 2rem;
+    margin: auto;
+    padding-left: 3vw;
+    margin-top: 72%;
+    font-size: 2.5vw;
+}
