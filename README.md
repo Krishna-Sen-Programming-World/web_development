@@ -19,4 +19,7 @@ Space Design hosting link : (" https://imaginative-llama-1b2ac1.netlify.app ")
 
 Birthday hosting link : (" https://spiffy-naiad-7ac333.netlify.app ")
 
+🛒 Hypermarket Inventory and Sales Management System link : (" https://krishna-sen-hypermarket-inventory-and-sales.up.railway.app/ ")
+
+
 ALL  hosting links : ("I can ony access it 😊 https://app.netlify.com/teams/krishna-sen-programming-world/overview 😁 ")
